@@ -116,9 +116,9 @@ SELECT DISTINCT "АДРЕС" FROM "МЕДПЕРСОНАЛ";
 ![image](https://user-images.githubusercontent.com/55359172/114350123-72872000-9b71-11eb-80e0-84fc556cc7f6.png)
 
 * b) список всех различных медучреждений;
-  ```sql
+```sql
 SELECT DISTINCT "УЧРЕЖДЕНИЕ" FROM "МЕСТО РАБОТЫ";
-  ```
-![image](https://user-images.githubusercontent.com/55359172/114350427-da3d6b00-9b71-11eb-9cb1-c1303aa76fe7.png)
+```
+ ![image](https://user-images.githubusercontent.com/55359172/114350427-da3d6b00-9b71-11eb-9cb1-c1303aa76fe7.png)
 
 
