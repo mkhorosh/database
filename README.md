@@ -177,3 +177,4 @@ SELECT *
 FROM "ТРУДОВАЯ ДЕЯТЕЛЬНОСТЬ"
 ORDER BY "ОПЛАТА, РУБ" DESC;
 ```
+![image](https://user-images.githubusercontent.com/55359172/114369382-01eafe00-9b87-11eb-91eb-1b262203f320.png)
