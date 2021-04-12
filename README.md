@@ -121,4 +121,10 @@ SELECT DISTINCT "УЧРЕЖДЕНИЕ" FROM "МЕСТО РАБОТЫ";
 ```
  ![image](https://user-images.githubusercontent.com/55359172/114350427-da3d6b00-9b71-11eb-9cb1-c1303aa76fe7.png)
 
+* c)	различные даты, для которых хранится информация о трудовой деятельности;
+```sql
+SELECT DISTINCT "ДАТА" FROM "ТРУДОВАЯ ДЕЯТЕЛЬНОСТЬ";
+```
+![image](https://user-images.githubusercontent.com/55359172/114350922-8e3ef600-9b72-11eb-8790-a49c6380f554.png)
+
 
