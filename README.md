@@ -85,3 +85,25 @@ values (51040, 'Январь', 001, 001, 007,	4, 20000),
        (51055, 'Август', 005, 005, 004,	2, 22000),
        (51056, 'Август', 003, 006, 003,	2, 22000);
 ```
+3) Выводим таблицы:
+```sql
+SELECT *
+FROM "МЕДПЕРСОНАЛ";
+```
+![image](https://user-images.githubusercontent.com/55359172/114346760-a3b12180-9b6c-11eb-961d-8ae840a7f7bc.png)
+```sql
+SELECT *
+FROM "МЕСТО РАБОТЫ";
+```
+![image](https://user-images.githubusercontent.com/55359172/114346936-e115af00-9b6c-11eb-9c6a-943c5a939b36.png)
+```sql
+SELECT *
+FROM "ТИПЫ ОПЕРАЦИЙ";
+```
+![image](https://user-images.githubusercontent.com/55359172/114347247-53868f00-9b6d-11eb-9c5a-f8a887f9c05c.png)
+
+```sql
+SELECT *
+FROM "ТРУДОВАЯ ДЕЯТЕЛЬНОСТЬ";
+```
+![image](https://user-images.githubusercontent.com/55359172/114347366-7fa21000-9b6d-11eb-9a61-c0767cf0cb74.png)
