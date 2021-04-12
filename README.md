@@ -109,8 +109,16 @@ FROM "ТРУДОВАЯ ДЕЯТЕЛЬНОСТЬ";
 ![image](https://user-images.githubusercontent.com/55359172/114347366-7fa21000-9b6d-11eb-9a61-c0767cf0cb74.png)
 
 4) Выводим с помощью запросов:
-  * а) различные адреса всех медработников;
+  * a) различные адреса всех медработников;
   ```sql
 SELECT DISTINCT "АДРЕС" FROM "МЕДПЕРСОНАЛ";
   ```
-  ![image](https://user-images.githubusercontent.com/55359172/114349923-305dde80-9b71-11eb-9902-3f613c8fdb63.png)
+![image](https://user-images.githubusercontent.com/55359172/114350123-72872000-9b71-11eb-80e0-84fc556cc7f6.png)
+
+* b) список всех различных медучреждений;
+  ```sql
+SELECT DISTINCT "УЧРЕЖДЕНИЕ" FROM "МЕСТО РАБОТЫ";
+  ```
+![image](https://user-images.githubusercontent.com/55359172/114350427-da3d6b00-9b71-11eb-9cb1-c1303aa76fe7.png)
+
+
